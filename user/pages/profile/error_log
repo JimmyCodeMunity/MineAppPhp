@@ -1,0 +1,100 @@
+[01-Feb-2024 00:36:47 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 45
+[01-Feb-2024 00:36:47 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 171
+[01-Feb-2024 00:38:52 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 45
+[01-Feb-2024 00:38:52 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 171
+[01-Feb-2024 00:39:41 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 45
+[01-Feb-2024 00:39:41 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 171
+[01-Feb-2024 00:40:47 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 46
+[01-Feb-2024 00:40:47 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 172
+[01-Feb-2024 00:42:24 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 46
+[01-Feb-2024 00:42:24 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 172
+[01-Feb-2024 00:46:17 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 175
+[01-Feb-2024 01:05:56 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:05:56 America/New_York] PHP Warning:  Undefined variable $conn in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 9
+[01-Feb-2024 01:05:56 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/bitsneay/public_html/admin/pages/profile/profile.php:9
+Stack trace:
+#0 /home/bitsneay/public_html/admin/pages/profile/profile.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 9
+[01-Feb-2024 01:05:59 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:05:59 America/New_York] PHP Warning:  Undefined variable $conn in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 9
+[01-Feb-2024 01:05:59 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/bitsneay/public_html/admin/pages/profile/profile.php:9
+Stack trace:
+#0 /home/bitsneay/public_html/admin/pages/profile/profile.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 9
+[01-Feb-2024 01:06:02 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:06:02 America/New_York] PHP Warning:  Undefined variable $conn in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 9
+[01-Feb-2024 01:06:02 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/bitsneay/public_html/admin/pages/profile/profile.php:9
+Stack trace:
+#0 /home/bitsneay/public_html/admin/pages/profile/profile.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 9
+[01-Feb-2024 01:06:03 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:06:03 America/New_York] PHP Warning:  Undefined variable $conn in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 9
+[01-Feb-2024 01:06:03 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/bitsneay/public_html/admin/pages/profile/profile.php:9
+Stack trace:
+#0 /home/bitsneay/public_html/admin/pages/profile/profile.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 9
+[01-Feb-2024 01:06:11 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:06:11 America/New_York] PHP Warning:  Undefined variable $conn in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 9
+[01-Feb-2024 01:06:11 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/bitsneay/public_html/admin/pages/profile/profile.php:9
+Stack trace:
+#0 /home/bitsneay/public_html/admin/pages/profile/profile.php(9): mysqli_query()
+#1 {main}
+  thrown in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 9
+[01-Feb-2024 01:07:05 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:07:05 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/bitsneay/public_html/admin/pages/profile/profile.php:11
+Stack trace:
+#0 /home/bitsneay/public_html/admin/pages/profile/profile.php(11): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 11
+[01-Feb-2024 01:07:09 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:07:09 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/bitsneay/public_html/admin/pages/profile/profile.php:11
+Stack trace:
+#0 /home/bitsneay/public_html/admin/pages/profile/profile.php(11): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 11
+[01-Feb-2024 01:07:11 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:07:11 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/bitsneay/public_html/admin/pages/profile/profile.php:11
+Stack trace:
+#0 /home/bitsneay/public_html/admin/pages/profile/profile.php(11): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 11
+[01-Feb-2024 01:07:45 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:07:45 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/bitsneay/public_html/admin/pages/profile/profile.php:11
+Stack trace:
+#0 /home/bitsneay/public_html/admin/pages/profile/profile.php(11): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 11
+[01-Feb-2024 01:08:47 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:08:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 271
+[01-Feb-2024 01:09:18 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:09:18 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 271
+[01-Feb-2024 01:09:20 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:09:20 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 271
+[01-Feb-2024 01:09:23 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:09:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 271
+[01-Feb-2024 01:09:27 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:09:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 271
+[01-Feb-2024 01:09:54 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:09:54 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 271
+[01-Feb-2024 01:09:58 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:09:58 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 271
+[01-Feb-2024 01:10:10 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:10:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 269
+[01-Feb-2024 01:10:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 271
+[01-Feb-2024 01:10:13 America/New_York] PHP Warning:  Undefined array key "admin_email" in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 7
+[01-Feb-2024 01:10:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 269
+[01-Feb-2024 01:10:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/admin/pages/profile/profile.php on line 271
+[01-Feb-2024 02:10:08 America/New_York] PHP Warning:  Undefined array key "admin_name" in /home/bitsneay/public_html/user/pages/profile/profile.php on line 181
+[01-Feb-2024 18:10:40 America/New_York] PHP Warning:  Undefined array key "user_activated" in /home/bitsneay/public_html/user/pages/profile/profile.php on line 4
+[01-Feb-2024 18:10:40 America/New_York] PHP Warning:  Undefined array key "user_email" in /home/bitsneay/public_html/user/pages/profile/profile.php on line 7
+[01-Feb-2024 18:10:40 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/user/pages/profile/profile.php on line 55
+[01-Feb-2024 18:10:40 America/New_York] PHP Warning:  Undefined array key "admin_name" in /home/bitsneay/public_html/user/pages/profile/profile.php on line 181
+[01-Feb-2024 18:10:40 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/user/pages/profile/profile.php on line 242
+[01-Feb-2024 18:10:40 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/user/pages/profile/profile.php on line 250
+[01-Feb-2024 18:10:40 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/user/pages/profile/profile.php on line 260
+[01-Feb-2024 18:10:40 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/user/pages/profile/profile.php on line 271
+[01-Feb-2024 18:10:40 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bitsneay/public_html/user/pages/profile/profile.php on line 282

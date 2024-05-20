@@ -1,0 +1,129 @@
+[01-Feb-2024 00:12:42 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:12:42 America/New_York] PHP Warning:  Undefined array key "logged_in" in /home/bitsneay/public_html/admin/index.php on line 9
+[01-Feb-2024 00:12:42 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 13
+[01-Feb-2024 00:12:42 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 14
+[01-Feb-2024 00:12:42 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 91
+[01-Feb-2024 00:12:42 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 217
+[01-Feb-2024 00:13:16 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:13:16 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 13
+[01-Feb-2024 00:13:16 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 14
+[01-Feb-2024 00:13:16 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 91
+[01-Feb-2024 00:13:16 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 217
+[01-Feb-2024 00:14:21 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:14:21 America/New_York] PHP Warning:  Undefined array key "logged_in" in /home/bitsneay/public_html/admin/index.php on line 9
+[01-Feb-2024 00:14:21 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 13
+[01-Feb-2024 00:14:21 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 14
+[01-Feb-2024 00:14:21 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 91
+[01-Feb-2024 00:14:21 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 217
+[01-Feb-2024 00:14:40 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:14:40 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 91
+[01-Feb-2024 00:14:40 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 217
+[01-Feb-2024 00:16:09 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:16:09 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 91
+[01-Feb-2024 00:16:09 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 217
+[01-Feb-2024 00:16:20 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:16:20 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 91
+[01-Feb-2024 00:16:20 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 217
+[01-Feb-2024 00:17:06 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:17:06 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 91
+[01-Feb-2024 00:17:06 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 217
+[01-Feb-2024 00:18:45 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:18:45 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:18:45 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 93
+[01-Feb-2024 00:18:45 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 218
+[01-Feb-2024 00:19:02 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:19:02 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:19:02 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 218
+[01-Feb-2024 00:21:24 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:21:24 America/New_York] PHP Warning:  Undefined array key "role" in /home/bitsneay/public_html/admin/index.php on line 17
+[01-Feb-2024 00:21:24 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:21:24 America/New_York] PHP Warning:  Undefined array key "role" in /home/bitsneay/public_html/admin/index.php on line 93
+[01-Feb-2024 00:21:24 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 218
+[01-Feb-2024 00:22:27 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:22:27 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 17
+[01-Feb-2024 00:22:27 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:22:27 America/New_York] PHP Warning:  Undefined array key "role" in /home/bitsneay/public_html/admin/index.php on line 93
+[01-Feb-2024 00:22:27 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 218
+[01-Feb-2024 00:22:30 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:22:30 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 17
+[01-Feb-2024 00:22:30 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:22:30 America/New_York] PHP Warning:  Undefined array key "role" in /home/bitsneay/public_html/admin/index.php on line 93
+[01-Feb-2024 00:22:30 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 218
+[01-Feb-2024 00:23:05 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:23:05 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 17
+[01-Feb-2024 00:23:05 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:23:05 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 218
+[01-Feb-2024 00:24:46 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:24:46 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 17
+[01-Feb-2024 00:24:46 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:24:46 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 222
+[01-Feb-2024 00:25:11 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:25:11 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 9
+[01-Feb-2024 00:25:11 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 17
+[01-Feb-2024 00:25:11 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:25:11 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 222
+[01-Feb-2024 00:26:42 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:26:42 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 17
+[01-Feb-2024 00:26:42 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:26:42 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 222
+[01-Feb-2024 00:27:08 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:27:08 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 9
+[01-Feb-2024 00:27:08 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 17
+[01-Feb-2024 00:27:59 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:27:59 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 9
+[01-Feb-2024 00:27:59 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 17
+[01-Feb-2024 00:27:59 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:27:59 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 222
+[01-Feb-2024 00:28:13 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:28:13 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 9
+[01-Feb-2024 00:28:13 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 17
+[01-Feb-2024 00:28:13 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:28:13 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/admin/index.php on line 222
+[01-Feb-2024 00:29:10 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:31:28 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:32:13 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:32:13 America/New_York] PHP Warning:  Undefined array key "admin_name" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:32:17 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:32:17 America/New_York] PHP Warning:  Undefined array key "admin_name" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:33:14 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:33:14 America/New_York] PHP Warning:  Undefined array key "admin_name" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:34:48 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:34:48 America/New_York] PHP Warning:  Undefined array key "admin_name" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:34:48 America/New_York] PHP Warning:  Undefined array key "admin_name" in /home/bitsneay/public_html/admin/index.php on line 218
+[01-Feb-2024 00:36:03 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 00:36:03 America/New_York] PHP Warning:  Undefined array key "admin_name" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 00:36:03 America/New_York] PHP Warning:  Undefined array key "admin_name" in /home/bitsneay/public_html/admin/index.php on line 185
+[01-Feb-2024 00:36:27 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 01:06:05 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 01:06:07 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 01:07:13 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 01:07:14 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 01:07:16 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 01:10:36 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 01:10:36 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 13
+[01-Feb-2024 01:10:36 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 14
+[01-Feb-2024 01:54:34 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 01:54:34 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 13
+[01-Feb-2024 01:54:34 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 14
+[01-Feb-2024 01:55:36 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 01:55:36 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 13
+[01-Feb-2024 01:55:36 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 14
+[01-Feb-2024 01:56:17 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 01:56:17 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 13
+[01-Feb-2024 01:56:17 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 14
+[01-Feb-2024 04:12:07 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 04:12:07 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 9
+[01-Feb-2024 04:12:07 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 13
+[01-Feb-2024 04:12:07 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 14
+[01-Feb-2024 04:12:07 America/New_York] PHP Warning:  Undefined array key "admin_activated" in /home/bitsneay/public_html/admin/index.php on line 17
+[01-Feb-2024 04:12:07 America/New_York] PHP Warning:  Undefined array key "admin_name" in /home/bitsneay/public_html/admin/index.php on line 92
+[01-Feb-2024 04:12:07 America/New_York] PHP Warning:  Undefined array key "admin_name" in /home/bitsneay/public_html/admin/index.php on line 185
+[01-Feb-2024 04:12:27 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[01-Feb-2024 04:12:27 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 13
+[01-Feb-2024 04:12:27 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 14
+[04-Feb-2024 02:00:21 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[04-Feb-2024 02:00:21 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 13
+[04-Feb-2024 02:00:21 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 14
+[04-Feb-2024 03:13:13 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/admin/index.php on line 6
+[04-Feb-2024 03:13:13 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 13
+[04-Feb-2024 03:13:13 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/admin/index.php on line 14

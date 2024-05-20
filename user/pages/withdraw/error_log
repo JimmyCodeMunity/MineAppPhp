@@ -1,0 +1,7 @@
+[01-Feb-2024 07:13:24 America/New_York] PHP Warning:  Undefined array key "user_activated" in /home/bitsneay/public_html/user/pages/withdraw/withdraw_request.php on line 5
+[01-Feb-2024 07:13:24 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/user/pages/withdraw/withdraw_request.php on line 8
+[01-Feb-2024 07:13:24 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/user/pages/withdraw/withdraw_request.php on line 9
+[01-Feb-2024 07:13:24 America/New_York] PHP Warning:  Undefined array key "username" in /home/bitsneay/public_html/user/pages/withdraw/withdraw_request.php on line 95
+[01-Feb-2024 11:41:37 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/user/pages/withdraw/withdraw_request.php on line 8
+[02-Feb-2024 02:30:27 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bitsneay/public_html/user/pages/withdraw/recent_withdraw.php on line 5
+[02-Feb-2024 02:30:27 America/New_York] PHP Warning:  Undefined array key "email" in /home/bitsneay/public_html/user/pages/withdraw/recent_withdraw.php on line 9
